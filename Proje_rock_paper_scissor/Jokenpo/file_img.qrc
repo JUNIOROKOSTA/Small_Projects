@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="pedra_img">
+    <file>pedra_sel.png</file>
+    <file>pedra.png</file>
+  </qresource>
+  <qresource prefix="papel_img">
+    <file>papel_sel.png</file>
+    <file>papel.png</file>
+  </qresource>
+  <qresource prefix="tesoura_img">
+    <file>tesoura_sel.png</file>
+    <file>tesoura.png</file>
+  </qresource>
+</RCC>

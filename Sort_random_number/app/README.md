@@ -13,6 +13,7 @@ Max number: Deve ser colocado o Maior número que deve aparecer no sorteio.
 Quantity: Deve ser colocar a Quantidade de número que deve aparecer no sorteio.
 
 - Exemplo:
+
 Min number : 2
 
 Max number : 50

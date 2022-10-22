@@ -1,6 +1,7 @@
 # Aplicativo para fazer o sorteio de números aleatórios.
 
 O arquivo inicializador do aplicativo é o main.py
+
 O arquivo app_sort_random_number.py é a configuração/geração de tela.
 
 - Uso:

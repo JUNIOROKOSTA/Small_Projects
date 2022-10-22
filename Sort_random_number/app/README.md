@@ -14,7 +14,9 @@ Quantity: Deve ser colocar a Quantidade de número que deve aparecer no sorteio.
 
 - Exemplo:
 Min number : 2
+
 Max number : 50
+
 Quantity : 5
 
 - Será gerado 5 números entre 2 e 50

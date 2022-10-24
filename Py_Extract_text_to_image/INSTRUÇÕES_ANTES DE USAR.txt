@@ -1,0 +1,31 @@
+
+# Mesmo Fazendo PIP install pytesseract é preciso baixar o instalador externo.
+
+
+https://github.com/ub-mannheim/tesseract/wiki
+
+baixar o Instalador do Tesseract 
+
+The latest installers can be downloaded here:
+
+tesseract-ocr-w64-setup-v5.2.0.20220712.exe (64 bit) resp.
+
+Atenção:
+Sempre no momento da intalação, deve copiar o caminho onde esta sendo instalado o programa tesseract.
+
+Por exemplo: C:\Program Files\Tesseract-OCR
+
+Comando dentro do editor:
+import pytesseract
+
+# Atribuir a pasta onde esta instalado o tesseract.exe:
+
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
+
+Para obter outras linguagens(idiomas):
+https://github.com/tesseract-ocr/tessdata
+por.traineddata # Para Portugues
+Update LSTM Models to integerized tessdata_best for files < 25mb
+
+
+

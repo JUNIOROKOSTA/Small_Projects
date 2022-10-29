@@ -1,0 +1,10 @@
+
+
+
+
+Para executar o comando no terminal tem que está no pasta do arquivo .ui
+\view_style> windows.ui
+
+E depois executar o seguinte comando:
+pyuic5 <nome do arquivo.ui> -o <novo nome do arquivo com .py>
+pyuic5 windows.ui -o windows.py

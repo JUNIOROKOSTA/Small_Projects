@@ -1,0 +1,39 @@
+{
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2530,
+    "data": "18/10/2022",
+    "local": "ESPA\u00c7ODASORTE em S\u00c3OPAULO,SP",
+    "dezenas": [
+        "14",
+        "17",
+        "18",
+        "28",
+        "30",
+        "44"
+    ],
+    "premiacoes": [
+        {
+            "acertos": "Sena",
+            "vencedores": 0,
+            "premio": "-"
+        },
+        {
+            "acertos": "Quina",
+            "vencedores": 80,
+            "premio": "47.236,83"
+        },
+        {
+            "acertos": "Quadra",
+            "vencedores": 6922,
+            "premio": "779,90"
+        }
+    ],
+    "estadosPremiados": [],
+    "acumulou": true,
+    "acumuladaProxConcurso": "",
+    "dataProxConcurso": "",
+    "proxConcurso": 2531,
+    "timeCoracao": null,
+    "mesSorte": null
+}

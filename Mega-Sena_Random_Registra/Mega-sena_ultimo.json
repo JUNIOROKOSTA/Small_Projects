@@ -1,0 +1,55 @@
+{
+    "loteria": "mega-sena",
+    "nome": "Mega-Sena",
+    "concurso": 2534,
+    "data": "29/10/2022",
+    "local": "ESPA\u00c7ODASORTE em S\u00c3OPAULO,SP",
+    "dezenas": [
+        "28",
+        "36",
+        "39",
+        "44",
+        "56",
+        "60"
+    ],
+    "premiacoes": [
+        {
+            "acertos": "Sena",
+            "vencedores": 1,
+            "premio": "131.566.946,59"
+        },
+        {
+            "acertos": "Quina",
+            "vencedores": 176,
+            "premio": "53.823,63"
+        },
+        {
+            "acertos": "Quadra",
+            "vencedores": 12797,
+            "premio": "1.057,49"
+        }
+    ],
+    "estadosPremiados": [
+        {
+            "nome": "S\u00e3o Paulo",
+            "uf": "SP",
+            "vencedores": "1",
+            "latitude": "-23.5557714",
+            "longitude": "-46.6395571",
+            "cidades": [
+                {
+                    "cidade": "",
+                    "vencedores": "1",
+                    "latitude": null,
+                    "longitude": null
+                }
+            ]
+        }
+    ],
+    "acumulou": true,
+    "acumuladaProxConcurso": "R$ 43 Milh\u00f5es",
+    "dataProxConcurso": "03/11/2022",
+    "proxConcurso": 2535,
+    "timeCoracao": null,
+    "mesSorte": null
+}

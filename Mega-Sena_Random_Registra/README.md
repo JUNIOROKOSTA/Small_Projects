@@ -1,4 +1,4 @@
-# Registra Apostada da Mega-Sena
+# Registrador de Apostas Mega-Sena
 
 Construído em python com UI feita com PyQT5.
 

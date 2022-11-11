@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="back">
+    <file>person_people.png</file>
+    <file>speed_test.png</file>
+    <file>SpeedTest_speed.png</file>
+    <file>fundo.png</file>
+    <file>abistract.png</file>
+  </qresource>
+</RCC>
